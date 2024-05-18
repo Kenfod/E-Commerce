@@ -112,32 +112,32 @@ class CategoriesScreen extends StatelessWidget {
          {'name': 'T-Shirt', 'price': '\$15', 'quantity': 10, 'image': 'assets/tshirt.jpg'},
         {'name': 'Jeans', 'price': '\$25', 'quantity': 8, 'image': 'assets/jeans.jpg'},
         {'name': 'Dress', 'price': '\$30', 'quantity': 6, 'image': 'assets/dress.jpg'},
-        {'name': 'Jacket', 'price': '\$40', 'quantity': 5, 'image': 'assets/jacket.jpg'},
+        {'name': 'Shirt', 'price': '\$40', 'quantity': 5, 'image': 'assets/shirt.jpg'},
       ];
     } else if (category == 'Shoes') {
       products = [
         {'name': 'Sneakers', 'price': '\$50', 'quantity': 12, 'image': 'assets/sneakers.jpg'},
         {'name': 'Boots', 'price': '\$60', 'quantity': 7, 'image': 'assets/boots.jpg'},
-        {'name': 'Sandals', 'price': '\$35', 'quantity': 9, 'image': 'assets/sandals.jpg'},
+        {'name': 'Mocassins', 'price': '\$35', 'quantity': 9, 'image': 'assets/mocassins.jpg'},
         {'name': 'Heels', 'price': '\$45', 'quantity': 6, 'image': 'assets/heels.jpg'},
       ];
     } else if (category == 'Home & Kitchen') {
       products = [
         {'name': 'Fridge', 'price': '\$10', 'quantity': 15, 'image': 'assets/fridge.jpg'},
-        {'name': 'Nicrowave', 'price': '\$12', 'quantity': 10, 'image': 'assets/microwave.jpg'},
+        {'name': 'Microwave', 'price': '\$12', 'quantity': 10, 'image': 'assets/microwave.jpg'},
         {'name': 'Cooker', 'price': '\$8', 'quantity': 20, 'image': 'assets/cooker.jpg'},
-        {'name': 'washing Machine', 'price': '\$15', 'quantity': 8, 'image': 'assets/washing_machine.jpg'},
+        {'name': 'Washing Machine', 'price': '\$15', 'quantity': 8, 'image': 'assets/washing_machine.jpg'},
       ];
     } else if (category == 'Books') {
       products = [
         {'name': 'Novel', 'price': '\$10', 'quantity': 15, 'image': 'assets/novel.jpg'},
         {'name': 'Biography', 'price': '\$12', 'quantity': 10, 'image': 'assets/biography.jpg'},
-        {'name': 'Self-Help', 'price': '\$8', 'quantity': 20, 'image': 'assets/selfhelp.jpg'},
-        {'name': 'Cookbook', 'price': '\$15', 'quantity': 8, 'image': 'assets/cookbook.jpg'},
+        {'name': 'Comic', 'price': '\$8', 'quantity': 20, 'image': 'assets/comic.jpg'},
+        {'name': 'Literature', 'price': '\$15', 'quantity': 8, 'image': 'assets/literature.jpg'},
       ];
     } else if (category == 'Toys') {
       products = [
-        {'name': 'Action Figure', 'price': '\$20', 'quantity': 25, 'image': 'assets/action_figure.jpg'},
+        {'name': 'Board Games', 'price': '\$20', 'quantity': 25, 'image': 'assets/board_games.jpg'},
         {'name': 'Doll', 'price': '\$18', 'quantity': 30, 'image': 'assets/doll.jpg'},
         {'name': 'LEGO Set', 'price': '\$30', 'quantity': 20, 'image': 'assets/lego.jpg'},
         {'name': 'Puzzle', 'price': '\$12', 'quantity': 15, 'image': 'assets/puzzle.jpg'},

@@ -71,6 +71,27 @@ flutter:
     - assets/laptop.jpg
     - assets/mobile.jpg
     - assets/digicam.jpg
+    - assets/tshirt.jpg
+    - assets/jeans.jpg
+    - assets/dress.jpg
+    - assets/shirt.jpg
+    - assets/boots.jpg
+    - assets/sneakers.jpg
+    - assets/mocassins.jpg
+    - assets/heels.jpg
+    - assets/fridge.jpg
+    - assets/microwave.jpg
+    - assets/cooker.jpg
+    - assets/washing_machine.jpg
+    - assets/novel.jpg
+    - assets/biography.jpg
+    - assets/comic.jpg
+    - assets/literature.jpg
+    - assets/board_games.jpg
+    - assets/doll.jpg
+    - assets/puzzle.jpg
+    - assets/lego.jpg
+    
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
